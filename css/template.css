@@ -1,0 +1,18 @@
+img{
+    position: absolute;
+    margin-left: 15vw;
+    margin-top: 20vh;
+    width: 250px;
+}
+span{
+    font-family: my;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 30vh;
+    color: white;
+
+}
+@font-face {
+    font-family: my;
+    src: url("../qwe/TitilliumWeb-Regular.ttf");
+}
